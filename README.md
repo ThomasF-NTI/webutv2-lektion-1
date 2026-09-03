@@ -5,7 +5,7 @@
 ## Vad ni ska göra
 Ta en ostrukturerad råtext och förvandla den till en snygg, lättläst och semantiskt korrekt webbsida.
 ## Material
-Text skickas till er, ev. bilder letar ni upp själva.
+Råtexten finns i index.html bilder letar ni upp själva.
 ## Tid
 Senast inlämning klockan 15:20
 ## Syfte
@@ -13,7 +13,7 @@ Visa vilka förkunskaper och vilken nivå ni ligger på.
 
 # Arbetsgång
 
-##Förberedelser
+## Förberedelser
 Skapa en ny mapp på din dator och döp den till intro-webb2. I denna mapp skapar du filerna index.html och style.css, samt en undermapp som heter images.
 
 ## HTML-skelettet
