@@ -1,11 +1,12 @@
-# webbutveckling 2 - Lektion 1 - Uppgift: Färska upp minnet!
+# Webbutveckling 2 - Lektion 1
+# Uppgift: Färska upp minnet!
 
 ## Vad ni ska göra
 Ta en ostrukturerad råtext och förvandla den till en snygg, lättläst och semantiskt korrekt webbsida.
 ## Material
 Text skickas till er, ev. bilder letar ni upp själva.
 ## Tid
-Innan skoldagens slut
+Senast inlämning klockan 15:20
 ## Syfte
 Visa vilka förkunskaper och vilken nivå ni ligger på.
 
@@ -35,3 +36,5 @@ Använd CSS för att göra sidan snygg och trevlig att läsa.
 • Skapa luft! Använd boxmodellen (padding och margin) så att texten inte nuddar kanterna.
 
 • Citatet ska sticka ut rent visuellt (t.ex. med kursiv text, en ram på vänsterkanten eller annan bakgrundsfärg).
+
+**Lycka till!**
